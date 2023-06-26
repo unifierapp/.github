@@ -11,4 +11,4 @@ If you have any inquiries or wish to contact us, please feel free to reach out t
 
 Also read: [sunsetting unifier](https://jecta.me/8Vnlzikz66OfnSjNSrTj)
 
-![unifier-app-screenshot](unifier.png)
+![unifier-app-screenshot](profile/unifier.png)
