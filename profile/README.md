@@ -9,6 +9,4 @@ We were facing challenges due to new API plans from platforms like Twitter and R
 ### I wanna bring unifier.app back to life.
 If you have any inquiries or wish to contact us, please feel free to reach out to us via our Discord server at https://discord.gg/SHAWpk5s. You can ping @jecta, who manages the domain, and we will be happy to assist you. We may consider re-engaging with Unifier if you have a compelling idea regarding its future, as our decision to step back was primarily due to financial challenges and the fact that platforms like Twitter no longer support third-party clients.
 
-Also read: [sunsetting unifier](https://jecta.me/8Vnlzikz66OfnSjNSrTj)
-
-![unifier-app-screenshot](profile/unifier.png)
+![unifier-app-screenshot](unifier.png)
